@@ -22,3 +22,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arabkhandev&" alt="arabkhandev" /></p>
 
+<p>
+  https://www.codewars.com/users/ArabkhanDev/badges/large
+</p>
+
