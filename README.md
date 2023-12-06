@@ -24,6 +24,5 @@
 
 <p>
   <img src="https://www.codewars.com/users/ArabkhanDev/badges/large" alt="codewars"/>
-  https://www.codewars.com/users/ArabkhanDev/badges/large
 </p>
 
